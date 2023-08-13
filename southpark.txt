@@ -1,0 +1,2 @@
+||googletagservices.com^$rewrite=abp-resource:blank-js,domain=southpark.de
+||imasdk.googleapis.com^$rewrite=abp-resource:blank-js,domain=southpark.de

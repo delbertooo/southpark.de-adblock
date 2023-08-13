@@ -1,2 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 202308132301
+! Title: southpark.de filters
+! Last modified: 13 Aug 2023 22:01 UTC
+! Expires: 14 days (update frequency)
+! 
+! Homepage: https://github.com/delbertooo/southpark.de-adblock
+! Licence: MIT
+! 
 ||googletagservices.com^$rewrite=abp-resource:blank-js,domain=southpark.de
 ||imasdk.googleapis.com^$rewrite=abp-resource:blank-js,domain=southpark.de
